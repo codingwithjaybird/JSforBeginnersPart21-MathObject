@@ -1,0 +1,21 @@
+body {
+  max-width: 80vw;
+  margin: auto;
+  margin-top: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px;
+  list-style: none;
+}
+
+li {
+  padding: 10px;
+}
+
+.light {
+  background-color: #ffe6ff;
+}
